@@ -1,0 +1,26 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "back.arreferenceimage"
+    },
+    {
+      "filename" : "down.arreferenceimage"
+    },
+    {
+      "filename" : "front.arreferenceimage"
+    },
+    {
+      "filename" : "left.arreferenceimage"
+    },
+    {
+      "filename" : "right.arreferenceimage"
+    },
+    {
+      "filename" : "up.arreferenceimage"
+    }
+  ]
+}

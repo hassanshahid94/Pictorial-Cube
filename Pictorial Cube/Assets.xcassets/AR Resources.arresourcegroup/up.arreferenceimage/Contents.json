@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "up-1.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 0.9973867595818815
+  }
+}
