@@ -1,0 +1,20 @@
+PODS:
+  - DropDown (2.3.13)
+  - RappleProgressHUD (4.1)
+
+DEPENDENCIES:
+  - DropDown
+  - RappleProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - RappleProgressHUD
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  RappleProgressHUD: f29bc5dc5f9834c2caa9c2ae21ba11f3ff2b5a85
+
+PODFILE CHECKSUM: 2454182e02e8f8ad0459aaa9f41203ae340a1336
+
+COCOAPODS: 1.10.1
